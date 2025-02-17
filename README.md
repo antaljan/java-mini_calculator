@@ -1,3 +1,4 @@
-I am learning JAVA programming, 
-just collecting here useful codes for myself and others. 
+This is a mini calculator application in JAVA.
+It was creatin in ECLIPS, because i learned JAVA programing.
+If you like, then enjoy it!
 I appreciate any help!
